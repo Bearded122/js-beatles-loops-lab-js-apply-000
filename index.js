@@ -18,7 +18,7 @@ function johnLennonFacts() {
   return array;
 }
 
-johnLennonFacts == ["foo", "bar"]
+johnLennonFacts == ["foo!!!", "bar!!!"]
 
 function iLoveTheBeatles(number) {
   var array = [];
