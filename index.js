@@ -19,7 +19,7 @@ function johnLennonFacts() {
 }
 
 function johnLennonFacts() {
-  var facts = [];
+  var facts = [ ];
   var array = [];
   var i = 0;
   while (array.length < facts.length) {
